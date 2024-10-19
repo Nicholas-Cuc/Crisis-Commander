@@ -1,0 +1,3 @@
+curl ''
+-H "apikey: "
+-H "Authorization: Bearer "
