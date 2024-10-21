@@ -13,6 +13,13 @@ certain patients. Faculty members would also have the ability of giving feedback
 allowing for the administrators to reallocate the patients to another faculty member.
 
 
+# Team Members
+Rayhan Marrero
+Nicholas Cuc
+Francesca Dumary
+Ameer Syed
+
+
 # Front End Documentation
 npm install
 
