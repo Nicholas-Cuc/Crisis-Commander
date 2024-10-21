@@ -15,13 +15,16 @@ allowing for the administrators to reallocate the patients to another faculty me
 
 # Team Members
 Rayhan Marrero
+https://github.com/RayhanM17
 
 Nicholas Cuc
+https://github.com/Nicholas-Cuc
 
 Francesca Dumary
+https://github.com/fdumary
 
 Ameer Syed
-
+https://github.com/captainameerica
 
 
 # Front End Documentation
