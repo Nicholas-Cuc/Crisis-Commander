@@ -15,9 +15,13 @@ allowing for the administrators to reallocate the patients to another faculty me
 
 # Team Members
 Rayhan Marrero
+
 Nicholas Cuc
+
 Francesca Dumary
+
 Ameer Syed
+
 
 
 # Front End Documentation
