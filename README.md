@@ -41,9 +41,10 @@ go run .
 
 
 # Presentation 
-
 https://uflorida-my.sharepoint.com/:p:/g/personal/nicholas_cuc_ufl_edu/EZaMLRNLOwhEn9n51aOYnAUBPT5MI8IfgmDx9CSAJo1cXw?e=0rbC1v
 
+# Figma
+https://www.figma.com/proto/QlI5xhBSFrZt7swL6ffkVq/Crisis-Commander?node-id=7-2&t=9Tm0ZrLFN2Ll4HdH-1&starting-point-node-id=7%3A2
 
 # Link To Main Repository Used During Hackathon
 https://github.com/RayhanM17/crisis-commander.git
@@ -52,6 +53,3 @@ https://github.com/RayhanM17/crisis-commander.git
 https://devpost.com/software/crisis-commander
 
 https://plutohacks-2024.devpost.com/project-gallery
-
-# Figma
-https://www.figma.com/proto/QlI5xhBSFrZt7swL6ffkVq/Crisis-Commander?node-id=7-2&t=9Tm0ZrLFN2Ll4HdH-1&starting-point-node-id=7%3A2
