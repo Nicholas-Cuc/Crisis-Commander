@@ -49,4 +49,5 @@ https://uflorida-my.sharepoint.com/:p:/g/personal/nicholas_cuc_ufl_edu/EZaMLRNLO
 https://github.com/RayhanM17/crisis-commander.git
 
 # Devpost Submission
+https://devpost.com/software/crisis-commander
 https://plutohacks-2024.devpost.com/project-gallery
